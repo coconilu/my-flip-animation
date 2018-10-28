@@ -1,0 +1,23 @@
+{
+  "name": "my-flip-animation",
+  "version": "1.0.0",
+  "description": "an easy lib for FLIP animation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coconilu/my-flip-animation.git"
+  },
+  "keywords": [
+    "FLIP",
+    "animation"
+  ],
+  "author": "coconilu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coconilu/my-flip-animation/issues"
+  },
+  "homepage": "https://github.com/coconilu/my-flip-animation#readme"
+}
